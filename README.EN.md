@@ -1,4 +1,4 @@
-# Repository template UI Kit Italia
+# Civic Museums UI Kit
 
 [![License](https://img.shields.io/github/license/italia/design-ui-kit.svg)](https://github.com/italia/design-ui-kit/blob/main/LICENSE)
 [![Join the #design channel](https://img.shields.io/badge/Slack%20channel-%23design-blue.svg)](https://developersitalia.slack.com/messages/C7VPAUVB3/)
@@ -6,19 +6,26 @@
 
 _🇮🇹 [Italian version](README.md)_
 
-**Description of this template resource**
+## Description
 
-Warning: Some features in Figma (.fig) files may not be available
-be present and/or incorrect in .sketch files converted using the
-latest version of [fig2sketch](https://github.com/sketch-hq/fig2sketch).
-It is therefore recommended to always check the conversion result
-and declare the status of resources and this eventuality to users.
+This repository contains the UI Kit for the website template for civic museums in Italy.
 
-## How to get started
+The kit includes the following resources:
 
-You can find Figma files and derived Sketch files in the latest release
-of the project here on GitHub.
+- sample layouts of the main pages of the site;
+- page type templates;
+- component library;
+- a guide to customizing the template;
+- prototypes of the main navigation flows.
+
+The kit, available for both Figma and Sketch, provides a clear framework of what a website example should look like and how it should function, helping you maintain visual and functional consistency with the model standards.
+
+Please note: some features present in Figma (.fig) files may not be present and/or correct in .sketch files converted using the latest version of fig2sketch. It is therefore recommended to always check the conversion result and declare the status of resources and this eventuality to users.
+
+## Getting Started
+
+Download the latest available version on the [Releases](https://github.com/italia/design-asl-ui-kit/releases) page. Each release includes files for both Figma and Sketch. Once downloaded, you can open the files with the respective design programs and start exploring the resources.
 
 ## How to contribute 💙
 
-How to contribute (issues, resources ecc..)
+If you want to report a problem or make an improvement request, open an [issue](https://github.com/italia/design-asl-ui-kit/issues) properly using the [labels](https://github.com/italia/design-asl-ui-kit/labels) depending on the type of report.
