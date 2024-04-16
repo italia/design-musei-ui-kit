@@ -35,5 +35,8 @@ del progetto qui su GitHub.
 
 ## Come contribuire 💙
 
-Se vuoi segnalare un problema o fare una richiesta di miglioria, apri un [issue](https://github.com/italia/design-asl-ui-kit/issues) utilizzando correttamente le [labels](https://github.com/italia/design-asl-ui-kit/labels) a seconda della tipologia di segnalazione.
+Se vuoi segnalare un problema o fare una richiesta, apri un [issue](https://github.com/italia/design-comuni-ui-kit/issues) utilizzando correttamente le [labels](https://github.com/italia/design-comuni-ui-kit/labels) a seconda della tipologia di segnalazione.
+
+Se vuoi contribuire con migliorie o correzioni di problemi, apri una [pull request](https://github.com/italia/design-comuni-ui-kit/pulls) utilizzando correttamente le [labels](https://github.com/italia/design-comuni-ui-kit/labels) a seconda della tipologia di contributo.
+
 
